@@ -2,8 +2,8 @@
 2 $You are at the middle. You can go anywhere $ 3 1 4 5
 3 $You are at the north side. You can go south only. $ -1 2 7 6
 4 $You are at the east side. You can go back to west. $ 7 8 -1 2
-5 $You are at the west side. You're in the wrong neighborhood. $ 6 9 2 -1
-6 $You at the north west. It's kinda tough here. $ -1 5 3 -1
+5 $You are at the west side. I think I see the ocean! $ 6 9 2 -1
+6 $You at the north west. Aren’t you getting a bit cold? $ -1 5 3 -1
 7 $You are at the north east. Hey, that's pretty good! $ -1 4 -1 3
-8 $You are at the south east. You got osteoperosis... $ 4 -1 -1 1
-9 $You are at the south west. You turned into gangsta now! $ 5 -1 1 -1
+8 $You are at the south east. Don’t go too far into south or east… $ 4 -1 -1 1
+9 $You are at the south west. Try to go east please… $ 5 -1 1 -1
